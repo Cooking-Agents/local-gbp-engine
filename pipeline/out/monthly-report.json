@@ -1,0 +1,16 @@
+{
+  "location": "Lakeside Dental",
+  "city": "Wheeling, IL",
+  "month": "October 2026",
+  "posts_published": 4,
+  "reviews_answered": 0,
+  "profile_completeness": {
+    "has_hours": null,
+    "has_categories": null,
+    "has_photos": null,
+    "has_description": null,
+    "posts_this_month": 4
+  },
+  "impression_trend": null,
+  "note": "Fields marked null require live GBP API data (credentials). This skeleton is produced offline; the report command fills them from real data when credentials are provided."
+}

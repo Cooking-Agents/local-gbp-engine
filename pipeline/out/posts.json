@@ -1,0 +1,39 @@
+{
+  "location": "Lakeside Dental",
+  "city": "Wheeling, IL",
+  "month": "October 2026",
+  "posts": [
+    {
+      "slot": 1,
+      "type": "What's New",
+      "cta": "Learn more",
+      "summary": "Lakeside Dental update \u2014 recent work and what we're focused on in Wheeling.",
+      "title": "What's new at Lakeside Dental",
+      "body": "Hi neighbors! Quick update from the team at Lakeside Dental here in Wheeling, IL. We've been busy serving dentist customers across Wheeling this month. If you've been putting off that project, now's a great time to reach out \u2014 we'd love to help. Message us or give us a call to get started."
+    },
+    {
+      "slot": 2,
+      "type": "Seasonal",
+      "cta": "Sign up",
+      "summary": "Seasonal reminder relevant to dentist customers in Wheeling.",
+      "title": "October 2026 tips from Lakeside Dental",
+      "body": "October 2026 is here! As your trusted dentist team in Wheeling, we put together a few seasonal reminders to keep things running smoothly. Need a hand? We're booking appointments now \u2014 reply here or call us and we'll get you on the schedule."
+    },
+    {
+      "slot": 3,
+      "type": "Offer",
+      "cta": "Get offer",
+      "summary": "A limited-time offer for Wheeling customers.",
+      "title": "Special offer for Wheeling neighbors",
+      "body": "For a limited time, Lakeside Dental is offering a special deal for our Wheeling community. Whether it's routine service or a bigger job, we've got you covered at a price that works. Tap 'Get offer' or call today to claim it \u2014 spots are limited."
+    },
+    {
+      "slot": 4,
+      "type": "Update / Reminder",
+      "cta": "Call now",
+      "summary": "Hours / how-to-reach-us reminder for Lakeside Dental.",
+      "title": "Here's how to reach Lakeside Dental",
+      "body": "Looking for a reliable dentist team in Wheeling? Lakeside Dental is here to help. Reach us by phone, message, or stop by during business hours. We make it easy to get fast, friendly service \u2014 save this post so you always know how to find us."
+    }
+  ]
+}
